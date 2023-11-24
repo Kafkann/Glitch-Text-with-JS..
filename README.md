@@ -1,4 +1,4 @@
-# Text
-empty lsls project
-this is a ramdon post
-Do you want to contribute to this post famtasma? forward!
+# Text test Gliche or Error with JavaScript 
+This repository is only a test and nothing has been done in it. 
+There is nothing interesting here, other than a very basic, too basic block of code. 
+Thanks for reading, goodbye. 
